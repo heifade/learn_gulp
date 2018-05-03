@@ -1,0 +1,17 @@
+{
+  "name": "learn_gulp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "gulp"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv2": "^0.1.1",
+    "gulp": "^3.9.1",
+    "rimraf": "^2.6.2"
+  }
+}
